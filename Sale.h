@@ -2,8 +2,10 @@
 Project Name: Lab 7
 Name: Kristopher Lowell
 Date Completed: 8/13/2018
-Purpose:
+Purpose: Using polymorphism and inheritance, create classes to deal with different types
+of sales.
 *****************************************************************************************/
+
 #ifndef SALE_H
 #define SALE_H
 

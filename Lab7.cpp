@@ -2,7 +2,8 @@
 Project Name: Lab 7
 Name: Kristopher Lowell
 Date Completed: 8/13/2018
-Purpose:
+Purpose: Using polymorphism and inheritance, create classes to deal with different types
+of sales.
 *****************************************************************************************/
 
 #include <iostream>
@@ -78,8 +79,6 @@ int main(int argc, char* argv[])
 	cout << "Discounted Tax: " << RSS.calculateDiscountedTax() << endl;
 	cout << "Total: " << RSS.bill() << endl;
 	cout << endl;
-
-	system("PAUSE");
 
 	return 0;
 }
